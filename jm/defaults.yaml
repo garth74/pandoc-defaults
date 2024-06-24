@@ -7,3 +7,5 @@ filters:
 reference-doc: "https://github.com/garth74pandoc-defaults/raw/main/jm/reference.docx"
 csl: "https://github.com/citation-style-language/styles/raw/master/journal-of-marketing.csl"
 bibliography: zoterolib.bib
+toc: False
+number-sections: false
