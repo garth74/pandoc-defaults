@@ -4,7 +4,7 @@ verbosity: INFO
 filters:
   - citeproc
 
-reference-doc: "https://github.com/garth74pandoc-defaults/raw/main/jcr/reference.docx"
+reference-doc: "https://github.com/garth74/pandoc-defaults/raw/main/jcr/reference.docx"
 csl: "https://github.com/citation-style-language/styles/raw/master/journal-of-consumer-research.csl"
 bibliography: zoterolib.bib
 toc: False
